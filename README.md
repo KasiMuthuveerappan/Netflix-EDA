@@ -11,7 +11,7 @@ I have done a thorough analysis of Netflix's content, user reviews, and other re
 ## 📚Dataset
 The dataset used for this project can be found in the **"Raw data"** directory. You can explore and analyze this data to gain a better understanding of Netflix's offerings and user interactions.
 
-## 📝🤔 Exploratory Data Analysis
+## 🤔 Exploratory Data Analysis
 
 ## 📝 Project Report
 - You can access the complete project python file here - [Python](https://github.com/KasiMuthuveerappan/Netflix-EDA/blob/main/EDA%20analysis/NetflixEDA.ipynb)
