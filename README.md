@@ -9,9 +9,14 @@ The goal of this project is to clean the data , unnest the comma seperated colum
 I have done a thorough analysis of Netflix's content, user reviews, and other relevant information to uncover interesting findings.
 
 ## 📚Dataset
-The dataset used for this project can be found in the **"Rawdata"** directory. You can explore and analyze this data to gain a better understanding of Netflix's offerings and user interactions.
+The dataset used for this project can be found in the **"Raw data"** directory. You can explore and analyze this data to gain a better understanding of Netflix's offerings and user interactions.
 
 ## 📝🤔 Exploratory Data Analysis
+
+## 📝 Project Report
+- You can access the complete project python file here - [Python](https://github.com/KasiMuthuveerappan/Netflix-EDA/blob/main/EDA%20analysis/NetflixEDA.ipynb)
+- You can access the complete project in pdf format here - [Report](https://github.com/KasiMuthuveerappan/Netflix-EDA/blob/main/EDA%20analysis/NetflixEDA%20-%20a3.pdf)
+
 In this EDA, we've covered a wide range of topics and questions, including but not limited to:
 
 - Analysis of content types (Movies, TV shows)
